@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27216596/README.md)
 <div align="center">
   <img src="svg/logo_letras.svg" alt="Alexander Moya Fleet System Logo" width="400">
 </div>

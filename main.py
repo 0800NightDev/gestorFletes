@@ -146,6 +146,8 @@ class MainWindow(QMainWindow):
         super().closeEvent(event)
 
 if __name__ == '__main__':
+    import multiprocessing
+    multiprocessing.freeze_support()
     app = QApplication(sys.argv)
     apply_stylesheet(app, theme='dark_blue.xml')
     window = MainWindow()
